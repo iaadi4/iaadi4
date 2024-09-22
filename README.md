@@ -7,10 +7,10 @@
 
 ## ![What I'm up to:](https://via.placeholder.com/15/f03c15/000000?text=+) What I'm upto:
 - 💪 Proficient in **C++** and **Javascript** Programming Languages
-- 🌐 Learning Data Structures and Cloud Technologies
+- 🌐 Learning Next.js and AWS
 - 🤝 Looking to help and collaborate with **Community Building, Code Projects & Open Source** 
-- 👥 Fascinated about tech communities
-- 💬 Do talk about **DSA and Coding contests**
+- 🔐 Fascinated about Web security and Devops
+- 💬 Do talk about **DSA and Web security**
 
 ---
 
