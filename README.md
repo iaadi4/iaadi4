@@ -7,7 +7,7 @@
 
 ## What I'm upto:
 - Proficient in **C++** and **Javascript**
-- Learning Next.js and AWS
+- Learning Next.js and DevOps
 - Fascinated about Web security, web3 and Devops
 ---
 
