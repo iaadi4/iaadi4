@@ -66,10 +66,6 @@ const aditya = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaadi4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iaadi4&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF" alt="GitHub Streak" />
-</div>
-
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
