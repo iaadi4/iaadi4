@@ -66,12 +66,6 @@ const aditya = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaadi4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </div>
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iaadi4&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🎯 **Let's Connect**
 
 <div align="center">
@@ -90,5 +84,5 @@ const aditya = {
 </div>
 
 <div align="right">
-<sub>📅 Last Updated: 15 June 2025</sub>
+<sub>📅 Last Updated: 22 December 2025</sub>
 </div>
