@@ -1,27 +1,17 @@
 # 🥂 Hey, I'm **Aditya Singh**
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full+Stack+%26+Web3+Developer;Competitive+Programmer)](https://git.io/typing-svg)
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-## 🚀 **About Me**
-
 ```typescript
 const aditya = {
   role: "Full Stack(backend mostly) & Web3 Developer",
   passion: ["Breaking Things (Then Fixing Them)", "Overthinking Simple Solutions"],
   currentFocus: [
     "🦀 Rust Development",
-    "🔗 tRPC Integration", 
     "🤖 Abusing LLMs",
     "⛓️ Blockchain Systems"
   ],
   expertise: {
     backend: "Scalable System Architecture",
-    frontend: "Decent UI/UX Design",
+    frontend: "Terrible UI, decent frontend",
     cloud: "AWS, Docker, Vercel & Cloudflare"
   },
   mindset: "Caffeinated and Curious"
@@ -72,7 +62,7 @@ const aditya = {
   
 [![Email](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adityasingh40675@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aditya-singh-3274101b4/)
-[![Twitter](https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaadi4)
+[![Twitter](https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/iaadi4](https://x.com/iaadi8))
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaadi4)
 
 </div>
@@ -84,5 +74,5 @@ const aditya = {
 </div>
 
 <div align="right">
-<sub>📅 Last Updated: 22 December 2025</sub>
+<sub>📅 Last Updated: 02 January 2026</sub>
 </div>
