@@ -1,4 +1,4 @@
-# 🥂 Hey, I'm **Aditya Singh**
+# Hey, I'm **Aditya Singh**
 
 ```typescript
 const aditya = {
@@ -18,7 +18,7 @@ const aditya = {
 };
 ```
 
-## 🛠️ **Tech Stack**
+## **Tech Stack**
 
 <div align="center">
 
@@ -47,13 +47,13 @@ const aditya = {
 ![BullMQ](https://img.shields.io/badge/BullMQ-21262d?style=for-the-badge&logoColor=FF6B6B)
 ![Stripe](https://img.shields.io/badge/Stripe-21262d?style=for-the-badge&logo=stripe&logoColor=635BFF)
 
-## 🎯 **Let's Connect**
+## **Let's Connect**
 
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Gmail-21262d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adityasingh40675@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aditya-singh-3274101b4/)
-[![Twitter](https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/iaadi4](https://x.com/iaadi8))
+[![Twitter](https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaadi4)
 [![GitHub](https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaadi4)
 
 </div>
